@@ -10,7 +10,7 @@ import Series from "./Pages/Series/Series";
 
 function App() {
   return (
-    <HashRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter>
       <Header />
       <div className="app">
         <Container>
