@@ -10,7 +10,7 @@ import Series from "./Pages/Series/Series";
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter basename={process.env.PUBLIC_URL}>
       <Header />
       <div className="app">
         <Container>
@@ -24,7 +24,7 @@ function App() {
       </div>
       
       <SimpleBottomNavigation />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
