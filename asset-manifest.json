@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/movies-search-app/static/css/main.e7ba7339.chunk.css",
-    "main.js": "/movies-search-app/static/js/main.0e40dad6.chunk.js",
-    "main.js.map": "/movies-search-app/static/js/main.0e40dad6.chunk.js.map",
-    "runtime-main.js": "/movies-search-app/static/js/runtime-main.d8be4ec4.js",
-    "runtime-main.js.map": "/movies-search-app/static/js/runtime-main.d8be4ec4.js.map",
-    "static/css/2.02daa001.chunk.css": "/movies-search-app/static/css/2.02daa001.chunk.css",
-    "static/js/2.dfbe735f.chunk.js": "/movies-search-app/static/js/2.dfbe735f.chunk.js",
-    "static/js/2.dfbe735f.chunk.js.map": "/movies-search-app/static/js/2.dfbe735f.chunk.js.map",
-    "index.html": "/movies-search-app/index.html",
-    "static/css/2.02daa001.chunk.css.map": "/movies-search-app/static/css/2.02daa001.chunk.css.map",
-    "static/css/main.e7ba7339.chunk.css.map": "/movies-search-app/static/css/main.e7ba7339.chunk.css.map",
-    "static/js/2.dfbe735f.chunk.js.LICENSE.txt": "/movies-search-app/static/js/2.dfbe735f.chunk.js.LICENSE.txt"
+    "main.css": "https://h-n41k.github.io/movies-search-app/static/css/main.e7ba7339.chunk.css",
+    "main.js": "https://h-n41k.github.io/movies-search-app/static/js/main.e2b9eb25.chunk.js",
+    "main.js.map": "https://h-n41k.github.io/movies-search-app/static/js/main.e2b9eb25.chunk.js.map",
+    "runtime-main.js": "https://h-n41k.github.io/movies-search-app/static/js/runtime-main.d306181f.js",
+    "runtime-main.js.map": "https://h-n41k.github.io/movies-search-app/static/js/runtime-main.d306181f.js.map",
+    "static/css/2.02daa001.chunk.css": "https://h-n41k.github.io/movies-search-app/static/css/2.02daa001.chunk.css",
+    "static/js/2.a207a4e8.chunk.js": "https://h-n41k.github.io/movies-search-app/static/js/2.a207a4e8.chunk.js",
+    "static/js/2.a207a4e8.chunk.js.map": "https://h-n41k.github.io/movies-search-app/static/js/2.a207a4e8.chunk.js.map",
+    "index.html": "https://h-n41k.github.io/movies-search-app/index.html",
+    "static/css/2.02daa001.chunk.css.map": "https://h-n41k.github.io/movies-search-app/static/css/2.02daa001.chunk.css.map",
+    "static/css/main.e7ba7339.chunk.css.map": "https://h-n41k.github.io/movies-search-app/static/css/main.e7ba7339.chunk.css.map",
+    "static/js/2.a207a4e8.chunk.js.LICENSE.txt": "https://h-n41k.github.io/movies-search-app/static/js/2.a207a4e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8be4ec4.js",
+    "static/js/runtime-main.d306181f.js",
     "static/css/2.02daa001.chunk.css",
-    "static/js/2.dfbe735f.chunk.js",
+    "static/js/2.a207a4e8.chunk.js",
     "static/css/main.e7ba7339.chunk.css",
-    "static/js/main.0e40dad6.chunk.js"
+    "static/js/main.e2b9eb25.chunk.js"
   ]
 }
