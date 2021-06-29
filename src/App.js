@@ -15,10 +15,10 @@ function App() {
       <div className="app">
         <Container>
         <Switch>
-          <Route path='movie-search-app/' component={Trending} exact/>
-          <Route path='movie-search-app/movies' component={Movies} />
-          <Route path='movie-search-app/series' component={Series} />
-          <Route path='movie-search-app/search' component={Search} />
+          <Route path='movies-search-app/' component={Trending} exact/>
+          <Route path='movies-search-app/movies' component={Movies} />
+          <Route path='movies-search-app/series' component={Series} />
+          <Route path='movies-search-app/search' component={Search} />
         </Switch>
         </Container>
       </div>
