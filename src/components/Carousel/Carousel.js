@@ -44,13 +44,14 @@ const Carousel = ({ id, media_type }) => {
 
   return (
     <AliceCarousel
-      mouseTracking
+      mouseTracking={credits.length > 5}
       infinite
       disableDotsControls
       disableButtonsControls
       responsive={responsive}
       items={items}
-      autoPlay
+      touchTracking={credits.length > 5}
+      autoPlay={credits.length > 5}
     />
   );
 };
