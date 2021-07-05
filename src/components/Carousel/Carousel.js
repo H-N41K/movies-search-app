@@ -23,15 +23,11 @@ const Carousel = ({ id, media_type }) => {
   ));
 
   const responsive = {
-    0: {
-      items: 3,
-    },
-    512: {
-      items: 5,
-    },
-    1024: {
-      items: 7,
-    },
+    0: { items: 3 },
+    512: { items: 4 },
+    666: { items: 5 },
+    1241: { items: 6 },
+    1361: { items: 7 },
   };
 
   const fetchCredits = async () => {
